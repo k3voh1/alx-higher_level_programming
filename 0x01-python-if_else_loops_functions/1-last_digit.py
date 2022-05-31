@@ -13,7 +13,7 @@ if number > 0:
     else:
         print("and is less than 6 and not 0")
 else:
-    print("last digit of", number, "is", -lastDigit, end=" ")
+    print("Last digit of", number, "is", -lastDigit, end=" ")
     if lastDigit == 0:
         print("and is 0")
     else:
